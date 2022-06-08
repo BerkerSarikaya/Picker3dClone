@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{85CE1D01-573B-CE55-9410-794A9A399006}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoorControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Instantiate.cs" Line="25" Column="30" />
+      <File FileName="Assets/Scripts/LevelControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="81" Column="64" />
+      <File FileName="Assets/Scripts/ScoreControl.cs" Line="49" Column="44" />
+      <File FileName="Assets/Scripts/DoorControl.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Picker3DCloneBerkerSARIKAYAUpdate" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5098315e-01de-4c49-aa1e-54845e28d847" />
+</Properties>
